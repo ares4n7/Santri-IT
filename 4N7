@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antares 4N7</title>
+</head>
+<body>
+    <header>
+        <h1>Santri IT</h1>
+        <hr>
+    </header>
+    <main>
+        <article>
+            <h2>Judul Artikel</h2>
+            <div>
+                <img src="img.jpg" width="300" alt="Sabar">
+            </div>
+            <p>
+                Tuliskan Artikelmu Di Sini
+            </p>
+        </article>
+    </main>
+        <nav>
+            <ul>
+                <li><a href="Artikel.html">Artikel</a></li>
+                <li><a href="Portofolio.html">Portofolio</a></li>
+                <li><a href="Neon Card.html">Tentang Saya</a></li>
+            </ul>
+        </nav>
+    <footer>
+        <p>
+            Hak Cipta © 2023 Antares 4N7. All rights reserved.
+        </p>
+    </footer>
+
+</body>
+</html>
